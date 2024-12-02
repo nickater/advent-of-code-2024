@@ -28,7 +28,7 @@ import { readFile } from '../../utils/readFile.ts'
 
 const file = await readFile<string>($next_day)
 
-export function solve() {
+export function solve(): number {
 	return 0;
 }
 EOL
@@ -38,7 +38,7 @@ import { readFile } from '../../utils/readFile.ts'
 
 const file = await readFile<string>($next_day)
 
-export function solve() {
+export function solve(): number {
 	return 0;
 }
 EOL

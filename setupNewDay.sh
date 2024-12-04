@@ -17,7 +17,7 @@ mkdir -p "$new_directory"
 # Create the required files
 touch "$new_directory/part1.ts"
 touch "$new_directory/part2.ts"
-touch "$new_directory/input.txt"
+touch "inputs/day$next_day.txt"
 touch "$new_directory/index.ts"
 
 echo "Setup complete for $new_directory"

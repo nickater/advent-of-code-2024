@@ -48,4 +48,3 @@ export function solve(): number {
 
   return validCount
 }
-
